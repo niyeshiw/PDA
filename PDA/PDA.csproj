@@ -1,0 +1,253 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{649A4569-99B5-4317-A399-49FA24B289B6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PDA</RootNamespace>
+    <AssemblyName>PDA</AssemblyName>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.0</OSVersion>
+    <DeployDirSuffix>PDA</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>20161015031624710_easyicon_net_32.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;$(PlatformFamilyName)</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <FileAlignment>512</FileAlignment>
+    <WarningLevel>4</WarningLevel>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Barcode.cs" />
+    <Compile Include="CFClientBase.cs" />
+    <Compile Include="CommonClass.cs" />
+    <Compile Include="FrmDailyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDailyReport.Designer.cs">
+      <DependentUpon>FrmDailyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPDALogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPDALogin.Designer.cs">
+      <DependentUpon>FrmPDALogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FunPublic.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmDailyReport.resx">
+      <DependentUpon>FrmDailyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPDALogin.resx">
+      <DependentUpon>FrmPDALogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOSGoodsIssu.resx">
+      <DependentUpon>FrmOSGoodsIssu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOSGoodsRec.resx">
+      <DependentUpon>FrmOSGoodsRec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmWorkshooGR.resx">
+      <DependentUpon>FrmWorkshooGR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRecRFID.resx">
+      <DependentUpon>FrmRecRFID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRejectPackage.resx">
+      <DependentUpon>FrmRejectPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStopPDA.resx">
+      <DependentUpon>FrmStopPDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSearchPDA.resx">
+      <DependentUpon>FrmSearchPDA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMapping.resx">
+      <DependentUpon>FrmMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmOSMapping.resx">
+      <DependentUpon>FrmOSMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RFID_15693.cs" />
+    <Compile Include="ServiceBase.cs" />
+    <Compile Include="Web References\PlatformServer\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOSGoodsIssu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOSGoodsIssu.Designer.cs">
+      <DependentUpon>FrmOSGoodsIssu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOSGoodsRec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOSGoodsRec.Designer.cs">
+      <DependentUpon>FrmOSGoodsRec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmWorkshooGR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmWorkshooGR.Designer.cs">
+      <DependentUpon>FrmWorkshooGR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRecRFID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRecRFID.Designer.cs">
+      <DependentUpon>FrmRecRFID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRejectPackage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRejectPackage.Designer.cs">
+      <DependentUpon>FrmRejectPackage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStopPDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStopPDA.Designer.cs">
+      <DependentUpon>FrmStopPDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSearchPDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSearchPDA.Designer.cs">
+      <DependentUpon>FrmSearchPDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMapping.Designer.cs">
+      <DependentUpon>FrmMapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmOSMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmOSMapping.Designer.cs">
+      <DependentUpon>FrmOSMapping.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://218.91.152.186:8045/ServiceBase.svc">
+      <UrlBehavior>Static</UrlBehavior>
+      <RelPath>Web References\PlatformServer\</RelPath>
+      <UpdateFromURL>http://218.91.152.186:8045/ServiceBase.svc</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Web References\PlatformServer\ServiceBase.xsd" />
+    <None Include="Web References\PlatformServer\ServiceBase0.xsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Web References\PlatformServer\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\PlatformServer\Result.datasource">
+      <DependentUpon>Reference.map</DependentUpon>
+    </None>
+    <None Include="Web References\PlatformServer\ServiceBase.disco" />
+    <None Include="Web References\PlatformServer\ServiceBase.wsdl" />
+    <None Include="Web References\PlatformServer\ServiceBase1.xsd" />
+    <None Include="Web References\PlatformServer\ServiceBase2.xsd" />
+    <None Include="Web References\PlatformServer\ServiceBase3.xsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="20161015031624710_easyicon_net_32.ico" />
+    <Content Include="20161015031741254_easyicon_net_256.ico" />
+    <Content Include="SysConfig.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

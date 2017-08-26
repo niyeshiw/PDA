@@ -1,0 +1,72 @@
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\bin\Debug\Update.exe
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\bin\Debug\Update.pdb
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\obj\Debug\Update.Properties.Resources.resources
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\obj\Debug\Update.exe
+C:\Users\wjh\Desktop\ONKYO-Bar\OnkyoBar\Update\obj\Debug\Update.pdb
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\bin\Debug\Update.exe
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\bin\Debug\Update.pdb
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\obj\Debug\ResolveAssemblyReference.cache
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\obj\Debug\Update.Properties.Resources.resources
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\obj\Debug\Update.exe
+W:\D\G Forward\xin\YY\BarCode方案\BarCode\Update\obj\Debug\Update.pdb
+C:\Users\Administrator\Desktop\BarCode\Update\bin\Debug\Update.exe
+C:\Users\Administrator\Desktop\BarCode\Update\bin\Debug\Update.pdb
+C:\Users\Administrator\Desktop\BarCode\Update\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BarCode\Update\obj\Debug\Update.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BarCode\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\BarCode\Update\obj\Debug\Update.exe
+C:\Users\Administrator\Desktop\BarCode\Update\obj\Debug\Update.pdb
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\bin\Debug\Update.exe
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\bin\Debug\Update.pdb
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.exe
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.pdb
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.exe
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.pdb
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.exe
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.pdb
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.exe
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA\PDA\bin\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA\PDA\bin\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA\Update\obj\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA\Update\obj\Debug\Update.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\bin\Debug\Update.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\bin\Debug\Update.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\Update\obj\Debug\Update.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\Update\obj\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\bin\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\bin\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\Update\obj\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\Update\obj\Debug\Update.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\Update.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\Update\obj\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA\PDA\PDA\bin\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA\PDA\PDA\bin\Debug\Update.pdb
+B:\project\andy\兴华科仪\PDA\PDA\Update\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA\PDA\Update\obj\Debug\Update.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA\PDA\Update\obj\Debug\Update.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA\PDA\Update\obj\Debug\Update.exe
+B:\project\andy\兴华科仪\PDA\PDA\Update\obj\Debug\Update.pdb

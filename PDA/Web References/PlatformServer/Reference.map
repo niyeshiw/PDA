@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd0" filename="ServiceBase.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd4" filename="ServiceBase0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://218.91.152.186:8045/ServiceBase.svc?disco" filename="ServiceBase.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd2" filename="ServiceBase1.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://218.91.152.186:8045/ServiceBase.svc?wsdl" filename="ServiceBase.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd1" filename="ServiceBase2.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd3" filename="ServiceBase3.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" name="ServiceBase" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+      <xsd:import schemaLocation="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/PlatformServer" />
+      <xsd:import schemaLocation="http://218.91.152.186:8045/ServiceBase.svc?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceBase_GetDt_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDt" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_GetDt_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDtResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_GetDtSap_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDtSap" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_GetDtSap_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDtSapResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSql_InputMessage">
+    <wsdl:part name="parameters" element="tns:RunSql" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSql_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqlSap_InputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlSap" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqlSap_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlSapResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqls_InputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqls" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqls_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqlsSap_InputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlsSap" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunSqlsSap_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RunSqlsSapResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_Insert_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insert" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_Insert_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunScalar_InputMessage">
+    <wsdl:part name="parameters" element="tns:RunScalar" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_RunScalar_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RunScalarResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_SaveImage_InputMessage">
+    <wsdl:part name="parameters" element="tns:SaveImage" />
+  </wsdl:message>
+  <wsdl:message name="IServiceBase_SaveImage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveImageResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceBase">
+    <wsdl:operation name="GetDt">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/GetDt" message="tns:IServiceBase_GetDt_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/GetDtResponse" message="tns:IServiceBase_GetDt_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDtSap">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/GetDtSap" message="tns:IServiceBase_GetDtSap_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/GetDtSapResponse" message="tns:IServiceBase_GetDtSap_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RunSql">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/RunSql" message="tns:IServiceBase_RunSql_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/RunSqlResponse" message="tns:IServiceBase_RunSql_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RunSqlSap">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/RunSqlSap" message="tns:IServiceBase_RunSqlSap_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/RunSqlSapResponse" message="tns:IServiceBase_RunSqlSap_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RunSqls">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/RunSqls" message="tns:IServiceBase_RunSqls_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/RunSqlsResponse" message="tns:IServiceBase_RunSqls_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RunSqlsSap">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/RunSqlsSap" message="tns:IServiceBase_RunSqlsSap_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/RunSqlsSapResponse" message="tns:IServiceBase_RunSqlsSap_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Insert">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/Insert" message="tns:IServiceBase_Insert_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/InsertResponse" message="tns:IServiceBase_Insert_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RunScalar">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/RunScalar" message="tns:IServiceBase_RunScalar_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/RunScalarResponse" message="tns:IServiceBase_RunScalar_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SaveImage">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceBase/SaveImage" message="tns:IServiceBase_SaveImage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceBase/SaveImageResponse" message="tns:IServiceBase_SaveImage_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceBase" type="tns:IServiceBase">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetDt">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/GetDt" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDtSap">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/GetDtSap" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RunSql">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/RunSql" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RunSqlSap">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/RunSqlSap" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RunSqls">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/RunSqls" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RunSqlsSap">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/RunSqlsSap" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Insert">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/Insert" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RunScalar">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/RunScalar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SaveImage">
+      <soap:operation soapAction="http://tempuri.org/IServiceBase/SaveImage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceBase">
+    <wsdl:port name="BasicHttpBinding_IServiceBase" binding="tns:BasicHttpBinding_IServiceBase">
+      <soap:address location="http://218.91.152.186:8045/ServiceBase.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

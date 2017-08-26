@@ -1,0 +1,139 @@
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.exe
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.pdb
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.exe
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.pdb
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\SysConfig.xml
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+W:\D\G Forward\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\SysConfig.xml
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.exe
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.pdb
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.exe
+Y:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA\PDA\bin\Debug\SysConfig.xml
+B:\project\andy\兴华科仪\PDA\PDA\bin\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA\PDA\bin\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA\PDA\obj\Debug\PDA.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\bin\Debug\SysConfig.xml
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\bin\Debug\PDA.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\bin\Debug\PDA.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA20170418\PDA\PDA\obj\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\bin\Debug\SysConfig.xml
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\bin\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\bin\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA20170418\PDA20170418\PDA\PDA\obj\Debug\PDA.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\SysConfig.xml
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\bin\Debug\PDA.pdb
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.exe
+Z:\Documents\xin\C\guangda\生产管理系统\Code\PDA\PDA\obj\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA\PDA\PDA\bin\Debug\SysConfig.xml
+B:\project\andy\兴华科仪\PDA\PDA\PDA\bin\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA\PDA\PDA\bin\Debug\PDA.pdb
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\ResolveAssemblyReference.cache
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmDailyReport.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmMenu.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmPDALogin.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.Properties.Resources.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmOSGoodsIssu.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmOSGoodsRec.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmWorkshooGR.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmRecRFID.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmRejectPackage.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmStopPDA.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmSearchPDA.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmMapping.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.FrmOSMapping.resources
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.csproj.GenerateResource.Cache
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.exe
+B:\project\andy\兴华科仪\PDA\PDA\PDA\obj\Debug\PDA.pdb

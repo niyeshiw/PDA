@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SystemConfig>
+  <Server>
+    <ServerName>测试工厂</ServerName>
+    <Url>http://218.91.152.186:8045/ServiceBase.svc</Url>
+  </Server>
+  <Server>
+    <ServerName>扬州光大</ServerName>
+    <Url>http://192.168.0.16:8035/ServiceBase.svc</Url>
+  </Server>
+  <Server>
+    <ServerName>徐州明大</ServerName>
+    <Url>http://192.168.0.16:8036/ServiceBase.svc</Url>
+  </Server>
+  <Server>
+    <ServerName>泰州永大</ServerName>
+    <Url>http://192.168.0.16:8037/ServiceBase.svc</Url>
+  </Server>
+  <Version>1.0.13</Version>
+</SystemConfig>
